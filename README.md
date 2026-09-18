@@ -1,7 +1,7 @@
 # Ex.No. 7 – Develop a Prompt-Based Application for Personal Needs
 
-## Date: 05/09/2026
-## Register No.: 212223220106
+## Date: 27/08/2026
+## Register No.: 212223230175
 
 # Aim
 
